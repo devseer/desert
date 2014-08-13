@@ -1,0 +1,3 @@
+cd js
+cat base.js components.js systems.js entities.js > bin/game.js
+cd ..
